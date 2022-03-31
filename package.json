@@ -7,6 +7,8 @@
   "description": "Front-end for a controlled vocabulary / glossary of measurement language in DWP Digital Health and Disability",
   "main": "index.js",
   "scripts": {
+    "dev": "npx @11ty/eleventy --serve --port=8081",
+    "deploy": "npx @11ty/eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +23,6 @@
   "homepage": "https://github.com/danhowarthdwp/dwp-health-data-glossary/blob/main/README.md",
   "dependencies": {
     "@11ty/eleventy": "1.0.0",
-    "govuk-eleventy-plugin": "1.0.5"
+    "govuk-eleventy-plugin": "2.0.0-beta.8"
   }
 }
