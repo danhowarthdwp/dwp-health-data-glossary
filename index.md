@@ -2,10 +2,17 @@
 homepage: true
 layout: product
 title: Measurement glossary
-includeInBreadcrumbs: true
 description: The language of measurement in DWP Digital Health and Disability.
 ---
 
-## [A to Z of measurement](/a-to-z)
+## How to use the measurement glossary
 
-The language we use for measurement, in alphabetical order.
+Guidance on [how to use this glossary](/how-to-use-measurement-glossary) and submit new terms.
+
+## A to Z of measurement
+
+The language we use for measurement, [in alphabetical order](/a-to-z).
+
+## Feedback
+
+The measurement glossary is in alpha. Help us improve it by <a href=" https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUM1JPNkEwRUdJUVpLQjhCMVZVQklDRDVHRC4u" target="_blank">giving us your feedback (Microsoft form opens in new tab)</a>.

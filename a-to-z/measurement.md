@@ -1,9 +1,12 @@
 ---
 layout: page
-includeInBreadcrumbs: true
 title: Measurement
 description: How we determine if the work we do is working.
+eleventyNavigation:
+  key: Measurement
+  parent: A to Z
 ---
+[Home](/) > [A to Z](/a-to-z/) > Measurement
 
 ## Definition
 
@@ -17,7 +20,7 @@ It gives us the means to analyse our progress at different levels: feature, prod
 
 None defined
 
-## Parent terms
+## Parent term
 
 None – this is the top term
 
@@ -28,5 +31,5 @@ None – this is the top term
 
 ## Feedback
 
-Is this term incorrect, or is there something missing? Tell us using the <a href=" https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUM1JPNkEwRUdJUVpLQjhCMVZVQklDRDVHRC4u" target="_blank">feedback form (opens in new tab).
+Is this term incorrect, or is there something missing? Tell us using the <a href=" https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUM1JPNkEwRUdJUVpLQjhCMVZVQklDRDVHRC4u" target="_blank">feedback form (opens in new tab)</a>.
 

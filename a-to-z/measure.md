@@ -1,9 +1,12 @@
 ---
 layout: page
-includeInBreadcrumbs: true
 title: Measure
 description: A unit of measurement that shows if the work we're doing in a particular area is working. Can be a 'performance measure' or a 'results measure'.
+eleventyNavigation:
+  key: Measure
+  parent: Measurement
 ---
+[Home](/) > [A to Z](/a-to-z/) > [Measurement](/a-to-z/measurement) > Measure
 
 ## Definition
 
@@ -17,7 +20,7 @@ Gives us the means to analyse progress at a granular level, and distinguish meas
 
 None yet defined
 
-## Parent terms
+## Parent term
 
 [Measurement](/a-to-z/measurement)
 
@@ -27,5 +30,5 @@ None yet defined
 
 ## Feedback
 
-Is this term incorrect, or is there something missing? Tell us using the <a href=" https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUM1JPNkEwRUdJUVpLQjhCMVZVQklDRDVHRC4u" target="_blank">feedback form (opens in new tab).
+Is this term incorrect, or is there something missing? Tell us using the <a href=" https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUM1JPNkEwRUdJUVpLQjhCMVZVQklDRDVHRC4u" target="_blank">feedback form (opens in new tab)</a>.
 

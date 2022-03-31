@@ -2,14 +2,7 @@ const govukEleventyPlugin = require('govuk-eleventy-plugin')
 
 module.exports = function(eleventyConfig) {
   // Register the plugin
-  eleventyConfig.addPlugin(govukEleventyPlugin, {
-    header: {
-      search: {
-        indexPath: '/search.json',
-        sitemapPath: '/sitemap'
-      }
-    }
-  })
+  eleventyConfig.addPlugin(govukEleventyPlugin)
 
   return {
     dataTemplateEngine: 'njk',
