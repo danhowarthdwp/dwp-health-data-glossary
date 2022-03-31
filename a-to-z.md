@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: page
 title: A to Z of measurement
 description:  An A to Z of measurement in DWP Digital Health and Disability.
 eleventyNavigation:
