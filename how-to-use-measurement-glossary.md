@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: page
 title: How to use the measurement glossary
 description:  Guidance on how to use this glossary and submit new terms.
 eleventyNavigation:
