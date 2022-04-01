@@ -1,11 +1,11 @@
 ---
 layout: page
+includeInBreadcrumbs: true
 title: A to Z of measurement
 description:  An A to Z of measurement in DWP Digital Health and Disability.
 eleventyNavigation:
   key: A to Z
 ---
-[Home](/) > A to Z
 
 ## How to use the A to Z
 

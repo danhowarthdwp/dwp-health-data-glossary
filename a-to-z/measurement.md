@@ -5,8 +5,8 @@ description: How we determine if the work we do is working.
 eleventyNavigation:
   key: Measurement
   parent: A to Z
+includeInBreadcrumbs: true
 ---
-[Home](/) > [A to Z](/a-to-z/) > Measurement
 
 ## Definition
 

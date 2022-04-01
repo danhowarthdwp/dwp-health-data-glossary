@@ -5,8 +5,8 @@ description: A unit of measurement that shows how effectively we're performing a
 eleventyNavigation:
   key: Performance measure
   parent: Measure
+includeInBreadcrumbs: true
 ---
-[Home](/) > [A to Z](/a-to-z/) > [Measurement](/a-to-z/measurement) > [Measure](/a-to-z/measure) > Performance measure
 
 ## Definition
 

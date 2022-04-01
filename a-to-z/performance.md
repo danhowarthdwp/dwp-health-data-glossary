@@ -5,8 +5,8 @@ description: How effectively the things we set out to do are being done. Relates
 eleventyNavigation:
   key: Performance
   parent: Measurement
+includeInBreadcrumbs: true
 ---
-[Home](/) > [A to Z](/a-to-z/) > [Measurement](/a-to-z/measurement) > Performance
 
 ## Definition
 

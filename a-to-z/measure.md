@@ -5,8 +5,8 @@ description: A unit of measurement that shows if the work we're doing in a parti
 eleventyNavigation:
   key: Measure
   parent: Measurement
+includeInBreadcrumbs: true
 ---
-[Home](/) > [A to Z](/a-to-z/) > [Measurement](/a-to-z/measurement) > Measure
 
 ## Definition
 
