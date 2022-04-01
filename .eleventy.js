@@ -2,7 +2,11 @@ const govukEleventyPlugin = require('govuk-eleventy-plugin')
 
 module.exports = function(eleventyConfig) {
   // Register the plugin
-  eleventyConfig.addPlugin(govukEleventyPlugin)
+  eleventyConfig.addPlugin(govukEleventyPlugin, {
+    header: {
+      productName: 'Measurement glossary',
+    }
+  })
 
   return {
     dataTemplateEngine: 'njk',

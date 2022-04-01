@@ -1,7 +1,7 @@
 ---
 homepage: true
 layout: product
-title: Measurement glossary
+title: What we mean when we talk about measurement
 description: The language of measurement in DWP Digital Health and Disability.
 ---
 
