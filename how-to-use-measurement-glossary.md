@@ -1,16 +1,16 @@
 ---
 layout: page
-title: How to use the measurement glossary
+title: How to use the glossary
 description:  Guidance on how to use this glossary and submit new terms.
 eleventyNavigation:
-  key: How to use the measurement glossary
+  key: How to use the glossary
 ---
 
-## What is the measurement glossary?
+## What is the data and measurement glossary?
 
-The measurement glossary is a managed list of terms and phrases that we use in DWP Digital Health and Disability, with guidelines for their use. It’s also known as a controlled vocabulary.
+The data and measurement glossary is a managed list of terms and phrases that we use in DWP Digital Health and Disability, with guidelines for their use. It’s also known as a controlled vocabulary.
 
-Its aim is to make the language we use clear, so colleagues and stakeholders know what we mean when we talk about measurement.
+Its aim is to make the language we use clear, so colleagues and stakeholders know what we mean when we talk about data and measurement.
 
 ## What is in it?
 
@@ -33,10 +33,10 @@ This table describes the metadata you’ll see for each term in the A to Z.
 
 ## How to submit new terms
 
-You can submit terms for consideration in the measurement glossary by completing <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUMjBZNjBFNEZCMjQ2TkhJMEhENk03QjZTTC4u" target="_blank" class="govuk-link">this Microsoft form (opens in new tab)</a>.
+You can submit terms for consideration in the glossary by completing <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUMjBZNjBFNEZCMjQ2TkhJMEhENk03QjZTTC4u" target="_blank" class="govuk-link">this Microsoft form (opens in new tab)</a>.
 
 
-## Who is responsible for the measurement glossary?
+## Who is responsible for the data and measurement glossary?
 
 The glossary is built and maintained by the content designer on team Teal. 
 

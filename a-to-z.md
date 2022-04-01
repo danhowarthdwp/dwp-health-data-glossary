@@ -1,8 +1,8 @@
 ---
 layout: page
 includeInBreadcrumbs: true
-title: A to Z of measurement
-description:  An A to Z of measurement in DWP Digital Health and Disability.
+title: A to Z of data and measurement
+description:  An A to Z of data and measurement in DWP Digital Health and Disability.
 eleventyNavigation:
   key: A to Z
 ---
