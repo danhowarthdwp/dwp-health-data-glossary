@@ -7,7 +7,6 @@ module.exports = function(eleventyConfig) {
       productName: 'Glossary',
       organisationName: 'DWP Health data',
       organisationLogo: false,
-      themeColour: #28a197
     }
   })
 
