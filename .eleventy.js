@@ -5,6 +5,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     header: {
       productName: 'Measurement glossary',
+      organisationName: 'DWP Health data',
+      organisationLogo: false,
     }
   })
 
