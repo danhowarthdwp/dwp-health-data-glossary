@@ -5,7 +5,6 @@ description:  Guidance on how to use this glossary and submit new terms.
 eleventyNavigation:
   key: How to use the measurement glossary
 ---
-[Home](/) > How to use the measurement glossary
 
 ## What is the measurement glossary?
 
