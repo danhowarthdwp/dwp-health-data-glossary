@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: collection
 includeInBreadcrumbs: true
 title: A to Z of data and measurement
 description:  An A to Z of data and measurement in DWP Digital Health and Disability.
