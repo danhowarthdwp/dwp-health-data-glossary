@@ -1,18 +1,18 @@
 ---
 homepage: true
 layout: product
-title: Measurement glossary
-description: What we mean when we talk about measurement in DWP Digital Health and Disability.
+title: Data and measurement glossary
+description: What we mean when we talk about data and measurement in DWP Digital Health and Disability.
 ---
 
-## How to use the measurement glossary
+## How to use the glossary
 
 Guidance on [how to use this glossary](/how-to-use-measurement-glossary) and submit new terms.
 
-## A to Z of measurement
+## A to Z of data and measurement
 
-The language we use for measurement, [in alphabetical order](/a-to-z).
+The language we use for data and measurement, [in alphabetical order](/a-to-z).
 
 ## Feedback
 
-The measurement glossary is in alpha. Help us improve it by <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUM1JPNkEwRUdJUVpLQjhCMVZVQklDRDVHRC4u" target="_blank" class="govuk-link">giving us your feedback (Microsoft form opens in new tab)</a>.
+The glossary is in alpha. Help us improve it by <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUM1JPNkEwRUdJUVpLQjhCMVZVQklDRDVHRC4u" target="_blank" class="govuk-link">giving us your feedback (Microsoft form opens in new tab)</a>.
