@@ -33,7 +33,7 @@ This table describes the metadata you’ll see for each term in the A to Z.
 
 ## How to submit new terms
 
-You can submit terms for consideration in the measurement glossary by completing <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUMjBZNjBFNEZCMjQ2TkhJMEhENk03QjZTTC4u" target="_blank">this Microsoft form (opens in new tab)</a>.
+You can submit terms for consideration in the measurement glossary by completing <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUMjBZNjBFNEZCMjQ2TkhJMEhENk03QjZTTC4u" target="_blank" class="govuk-link">this Microsoft form (opens in new tab)</a>.
 
 
 ## Who is responsible for the measurement glossary?

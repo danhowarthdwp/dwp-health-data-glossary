@@ -39,5 +39,5 @@ None – this is the top term
 
 ## Feedback
 
-Is this term incorrect, or is there something missing? Tell us using the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUM1JPNkEwRUdJUVpLQjhCMVZVQklDRDVHRC4u" target="_blank">feedback form (opens in new tab)</a>.
+Is this term incorrect, or is there something missing? Tell us using the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DpxP-knna0i8NIr6EGM3VnGGqao7aCRJpUj9ujjADTdUM1JPNkEwRUdJUVpLQjhCMVZVQklDRDVHRC4u" target="_blank" class="govuk-link">feedback form (opens in new tab)</a>.
 
