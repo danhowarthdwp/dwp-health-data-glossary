@@ -1,11 +1,19 @@
 ---
-layout: page
+layout: post
 title: Measure
 description: A unit of measurement that shows if the work we're doing in a particular area is working. Can be a 'performance measure' or a 'results measure'.
 eleventyNavigation:
   key: Measure
   parent: Measurement
 includeInBreadcrumbs: true
+related:
+  sections:
+    - title: Guidance
+      items:
+        - text: How to use the measurement glossary
+          href: /how-to-use-measurement-glossary/
+        - text: What purpose, synonyms, parent and child terms mean
+          href: /how-to-use-measurement-glossary/#what-is-in-it%3F
 ---
 
 ## Definition

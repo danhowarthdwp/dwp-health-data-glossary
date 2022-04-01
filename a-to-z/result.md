@@ -1,11 +1,19 @@
 ---
-layout: page
+layout: post
 title: Result
 description: The impact and outcomes we deliver as a result of the work we have done.
 eleventyNavigation:
   key: Result
   parent: Measurement
 includeInBreadcrumbs: true
+related:
+  sections:
+    - title: Guidance
+      items:
+        - text: How to use the measurement glossary
+          href: /how-to-use-measurement-glossary/
+        - text: What purpose, synonyms, parent and child terms mean
+          href: /how-to-use-measurement-glossary/#what-is-in-it%3F
 ---
 
 ## Definition

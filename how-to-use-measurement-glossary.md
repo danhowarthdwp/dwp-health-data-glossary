@@ -28,6 +28,8 @@ This table describes the metadata you’ll see for each term in the A to Z.
 | Synonyms | Other words and phrases that might mean the same thing, that people use interchangeably and in different contexts |
 | Parent term | If the term is part of a bigger group of terms, this lists the name of the group |
 | Child terms | If the term has a group of terms underneath it, this lists the sub-terms |
+| Source | Publication or document that is an authority on this term and its use |
+
 
 ## How to submit new terms
 

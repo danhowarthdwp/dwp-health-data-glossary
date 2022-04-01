@@ -1,11 +1,19 @@
 ---
-layout: page
+layout: post
 title: Performance measure
 description: A unit of measurement that shows how effectively we're performing an activity, opportunity or lever that we've defined (see child terms).
 eleventyNavigation:
   key: Performance measure
   parent: Measure
 includeInBreadcrumbs: true
+related:
+  sections:
+    - title: Guidance
+      items:
+        - text: How to use the measurement glossary
+          href: /how-to-use-measurement-glossary/
+        - text: What purpose, synonyms, parent and child terms mean
+          href: /how-to-use-measurement-glossary/#what-is-in-it%3F
 ---
 
 ## Definition

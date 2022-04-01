@@ -1,11 +1,19 @@
 ---
-layout: page
+layout: post
 title: Results measure
 description: A unit of measurement that shows if the work we deliver is meeting the impact and outcomes we've defined (see child terms).
 eleventyNavigation:
   key: Results measure
   parent: Measure
 includeInBreadcrumbs: true
+related:
+  sections:
+    - title: Guidance
+      items:
+        - text: How to use the measurement glossary
+          href: /how-to-use-measurement-glossary/
+        - text: What purpose, synonyms, parent and child terms mean
+          href: /how-to-use-measurement-glossary/#what-is-in-it%3F
 ---
 
 ## Definition

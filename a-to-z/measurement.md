@@ -1,11 +1,19 @@
 ---
-layout: page
+layout: post
 title: Measurement
 description: How we determine if the work we do is working.
 eleventyNavigation:
   key: Measurement
   parent: A to Z
 includeInBreadcrumbs: true
+related:
+  sections:
+    - title: Guidance
+      items:
+        - text: How to use the measurement glossary
+          href: /how-to-use-measurement-glossary/
+        - text: What purpose, synonyms, parent and child terms mean
+          href: /how-to-use-measurement-glossary/#what-is-in-it%3F
 ---
 
 ## Definition
