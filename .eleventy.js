@@ -4,9 +4,10 @@ module.exports = function(eleventyConfig) {
   // Register the plugin
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     header: {
-      productName: 'Measurement glossary',
+      productName: 'Glossary',
       organisationName: 'DWP Health data',
       organisationLogo: false,
+      themeColour: #28a197
     }
   })
 
