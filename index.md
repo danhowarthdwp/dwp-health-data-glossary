@@ -1,8 +1,8 @@
 ---
 homepage: true
 layout: product
-title: What we mean when we talk about measurement
-description: The language of measurement in DWP Digital Health and Disability.
+title: Measurement glossary
+description: What we mean when we talk about measurement in DWP Digital Health and Disability.
 ---
 
 ## How to use the measurement glossary
