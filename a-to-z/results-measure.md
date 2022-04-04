@@ -18,7 +18,7 @@ related:
 
 ## Definition
 
-A unit of measurement that shows if the work we deliver is meeting the impact and outcomes we've defined (see [child terms](/a-to-z/results-measure/#child-terms)).
+A unit of measurement that measures [results](/a-to-z/result). It shows if the work we deliver is meeting the impact and outcomes we've defined.
 
 ## Purpose
 
@@ -34,7 +34,7 @@ None yet defined
 
 ## Child terms
 
-Impacts: increased confidence in our decisions, increased trust in our data; outcomes: improved data literacy, improved analytics maturity, improved data quality
+Impact, outcome
 
 ## Feedback
 

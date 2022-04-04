@@ -18,7 +18,7 @@ related:
 
 ## Definition
 
-How effectively the things we set out to do are being done. Relates to team activities, opportunities and levers.
+How effectively the things we set out to do are being done. Relates to team activities, opportunities and levers. It’s measured by [performance measures](/a-to-z/performance-measure).
 
 ## Purpose
 
@@ -34,7 +34,7 @@ None yet defined
 
 ## Child terms
 
-Lever, opportunity, activity, [performance measure](/a-to-z/performance-measure)
+None defined
 
 ## Feedback
 

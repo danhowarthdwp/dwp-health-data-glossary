@@ -34,7 +34,7 @@ None – this is the top term
 
 ## Child terms
 
-[Performance](/a-to-z/performance), [result](/a-to-z/result)
+[Performance](/a-to-z/performance), [result](/a-to-z/result), [measure](/a-to-z/measure)
 
 
 ## Feedback

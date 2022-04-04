@@ -4,6 +4,7 @@ title: How to use the glossary
 description:  Guidance on how to use this glossary and submit new terms.
 eleventyNavigation:
   key: How to use the glossary
+includeInBreadcrumbs: true
 ---
 
 ## What is the data and measurement glossary?
@@ -16,7 +17,7 @@ Its aim is to make the language we use clear, so colleagues and stakeholders kno
 
 The glossary is in alpha, and we‘re adding more terms throughout spring 2022, as we research and define them.
 
-Terms are listed alphabetically in an A to Z. Each term also has its own page with metadata that puts it in context and shows how it relates to other terms.
+Terms are listed alphabetically in an [A to Z](/a-to-z). Each term also has its own page with metadata that puts it in context and shows how it relates to other terms.
 
 This table describes the metadata you’ll see for each term in the A to Z.
 

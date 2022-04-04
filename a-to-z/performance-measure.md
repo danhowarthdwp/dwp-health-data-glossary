@@ -18,7 +18,7 @@ related:
 
 ## Definition
 
-A unit of measurement that shows how effectively we're performing an activity, opportunity or lever that we've defined (see [child terms](/a-to-z/performance-measure/#child-terms)).
+A unit of measurement that measures [performance](/a-to-z/performance). It shows how effectively we're performing an activity, opportunity or lever that we've defined.
 
 ## Purpose
 
@@ -34,11 +34,7 @@ None yet defined
 
 ## Child terms
 
-Levers: Capabilities, foundations, responsibilities.
-
-Opportunities: planning, building, operating, learning, strategy, policy and design, operations, citizens.
-
-Activities: hypotheses, team-level activities
+Lever, opportunity, activity
 
 ## Feedback
 
