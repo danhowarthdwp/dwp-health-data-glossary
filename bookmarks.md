@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: side-navigation
+order: 3
 title: Bookmarks
 description:  External resources, websites and publications that we might use to expand on this glossary.
 eleventyNavigation:
   key: Bookmarks
 includeInBreadcrumbs: true
+tags:
+  - homepage
 ---
 
 ## Digital, Data and Technology Playbook

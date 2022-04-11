@@ -1,9 +1,16 @@
 ---
-layout: page
+layout: side-navigation
 title: How to use the glossary
+order: 4
 description:  Guidance on how to use this glossary and submit new terms.
 eleventyNavigation:
   key: How to use the glossary
+related:
+  sections:
+    - title: Related content
+      items:
+        - text: A to Z of data and measurement
+          href: /a-to-z/
 includeInBreadcrumbs: true
 ---
 

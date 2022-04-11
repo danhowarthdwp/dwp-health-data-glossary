@@ -1,10 +1,23 @@
 ---
 layout: collection
+order: 1
 includeInBreadcrumbs: true
-title: A to Z of data and measurement
-description:  An A to Z of data and measurement in DWP Digital Health and Disability.
+title: A to Z
+description:  An A to Z of terms we use for data and measurement in DWP Digital Health and Disability.
+related:
+  sections:
+    - title: Related content
+      items:
+        - text: How to use the glossary
+          href: /how-to-use-measurement-glossary
+        - text: Models
+          href: /models/
+        - text: Bookmarks
+          href: /bookmarks
 eleventyNavigation:
   key: A to Z
+tags:
+  - homepage
 ---
 
 ## How to use the A to Z

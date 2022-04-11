@@ -11,6 +11,16 @@ module.exports = function(eleventyConfig) {
     brandColour: '#37807b',
   });
 
+    // Collections
+    eleventyConfig.addCollection('layout', collection =>
+    collection.getFilteredByTag('layout')
+      .sort((a, b) => (a.data.order || 0) - (b.data.order || 0))
+  )
+  eleventyConfig.addCollection('homepage', collection =>
+    collection.getFilteredByTag('homepage')
+      .sort((a, b) => (a.data.order || 0) - (b.data.order || 0))
+  );
+
   // Copy `assets/images/` to `_site/assets/images/`
   eleventyConfig.addPassthroughCopy("assets/images");
 

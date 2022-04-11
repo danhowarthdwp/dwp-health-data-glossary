@@ -1,10 +1,13 @@
 ---
-layout: collection
+layout: side-navigation
+order: 2
 includeInBreadcrumbs: true
 title: Models
-description:  Models, frameworks and diagrams we use to explain data strategy and processes in DWP Digital Health and Disability
+description:  Models, frameworks and diagrams we use to explain data strategy and processes
 eleventyNavigation:
   key: Models
+tags:
+  - homepage
 ---
 
 ## [Data life cycle](/models/data-life-cycle)

@@ -14,6 +14,8 @@ related:
   sections:
     - title: Related content
       items:
+        - text: All models
+          href: /models/
         - text: A to Z of data and measurement
           href: /a-to-z/
 ---
