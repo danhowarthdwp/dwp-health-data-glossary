@@ -9,7 +9,10 @@ module.exports = function(eleventyConfig) {
       organisationLogo: false,
     },
     brandColour: '#37807b',
-  })
+  });
+
+  // Copy `assets/images/` to `_site/assets/images/`
+  eleventyConfig.addPassthroughCopy("assets/images");
 
   return {
     dataTemplateEngine: 'njk',
