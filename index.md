@@ -10,7 +10,7 @@ description: What we mean when we talk about data and measurement in DWP Digital
   <section class="govuk-grid-column-one-third-from-desktop govuk-!-margin-bottom-8">
     <h2 class="govuk-heading-m govuk-!-font-size-27">{{ item.data.title }}</h2>
     <p class="govuk-body">{{ item.data.description | markdown("inline") }}</p>
-    <p class="govuk-body"><a class="govuk-link govuk-!-font-weight-bold" href="{{ item.url | url }}">Go to {{ item.data.title | lower }}</a></p>
+    <p class="govuk-body"><a class="govuk-link govuk-!-font-weight-bold" href="{{ item.url | url }}">{{ item.data.title}}: go there</a></p>
   </section>
 {% endfor %}
   <section class="govuk-grid-column-full">
