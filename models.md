@@ -3,7 +3,7 @@ layout: side-navigation
 order: 2
 includeInBreadcrumbs: true
 title: Models
-description:  Models, frameworks and diagrams we use to explain data strategy and processes
+description:  Models, frameworks and diagrams we use to explain data strategy and processes.
 eleventyNavigation:
   key: Models
 tags:
