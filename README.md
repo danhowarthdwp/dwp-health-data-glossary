@@ -1,3 +1,9 @@
+---
+layout: page
+title: ReadMe for GitHub repository
+description: ReadMe file with instructions and credits for the repository on GitHub.
+---
+
 # DWP Health data glossary
 
 This static site uses the [GOV.UK Eleventy plugin](https://x-govuk.github.io/govuk-eleventy-plugin/) to create a front-end for a controlled vocabulary / glossary of measurement language in DWP Digital Health and Disability.
