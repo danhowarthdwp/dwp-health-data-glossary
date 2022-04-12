@@ -30,7 +30,7 @@ None defined
 
 ## Parent term
 
-None – this is the top term
+None – this is a top term
 
 ## Child terms
 

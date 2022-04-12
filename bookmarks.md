@@ -10,6 +10,12 @@ tags:
   - homepage
 ---
 
+## Data Ethics Framework
+
+Guidance for public sector organisations on how to use data appropriately and responsibly when planning, implementing, and evaluating a new policy or service. <a href="https://www.gov.uk/government/publications/data-ethics-framework" target="_blank" class="govuk-link">Published on GOV.UK (opens in new tab)</a> by Central Digital and Data Office, in June 2018.
+
+
+
 ## Designing with data – in GOV.UK Service Manual
 
 Introduction to designing with data <a href="https://www.gov.uk/service-manual/design/designing-with-data-an-introduction" target="_blank" class="govuk-link">in the GOV.UK Service Manual (opens in new tab)</a>. Published by Annie Streater, technical content designer at GDS, in March 2022.
