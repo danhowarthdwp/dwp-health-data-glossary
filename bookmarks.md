@@ -24,5 +24,5 @@ Guidance on a framework that provides government with a more structured approach
 
 ## National Data Strategy
 
-The <a href="https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook" target="_blank" class="govuk-link">National Data Strategy (opens in new tab)</a> is a policy paper, produced by the Department for Digital, Culture, Media and Sport (DCMS) in September 2020. It’s a framework for action the UK government will take on data. 
+The <a href="https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy" target="_blank" class="govuk-link">National Data Strategy (opens in new tab)</a> is a policy paper, produced by the Department for Digital, Culture, Media and Sport (DCMS) in September 2020. It’s a framework for action the UK government will take on data. 
 
