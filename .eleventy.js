@@ -10,7 +10,7 @@ module.exports = function(eleventyConfig) {
       search: {
         indexPath: '/search.json',
         sitemapPath: '/sitemap'
-      },
+      }
     },
     brandColour: '#37807b',
   });
