@@ -20,6 +20,8 @@ related:
 
 A unit of measurement that measures [results](/a-to-z/result). It shows if the work we deliver is meeting the impact and outcomes we've defined.
 
+David Parmenter defines results measures as a summation of more than one team's input. They show how teams are combining to produce results.
+
 ## Purpose
 
 It shows us if the work we deliver is meeting our objectives at a high-level.
@@ -35,6 +37,10 @@ None yet defined
 ## Child terms
 
 Impact, outcome
+
+## Source
+
+Partially adapted from David Parmenter's book, *Key Performance Indicators (KPIs)* third edition, (2015: 3–4). [Available online](https://kpi.davidparmenter.com/wp-content/uploads/sites/6/2017/02/chapter-1-The-great-misunderstanding-Third-edition-of-KPI-book-by-David-Parmenter1.pdf)
 
 ## Feedback
 

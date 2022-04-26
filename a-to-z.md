@@ -42,6 +42,10 @@ ___
 
 In general, data can be understood as discrete values and statistics collected together for reference or analysis. When we refer to data, we mean both data about people generated through their interactions with services, and also data about systems and infrastructure such as businesses and public services. Data can be operational (collected in the process of running services or businesses), as well as analytical and statistical.
 
+### [Data integrity](/a-to-z/data-integrity)
+
+The level of trust an organisation has in the accuracy, completeness, timeliness, and validity of the data.
+
 ### [Data quality](/a-to-z/data-quality)
 
 Data quality is the state of qualitative or quantitative pieces of information. There are many definitions of data quality but data is generally considered high quality if it is fit for its intended uses in operations, decision making and planning. High quality quality data has integrity, which means it is accurate, complete and consistent.

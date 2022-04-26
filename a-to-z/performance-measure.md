@@ -18,7 +18,9 @@ related:
 
 ## Definition
 
-A unit of measurement that measures [performance](/a-to-z/performance). It shows how effectively we're performing an activity, opportunity or lever that we've defined.
+A unit of measurement that measures [performance](/a-to-z/performance). It shows how effectively we're performing an activity, opportunity or lever that we've defined. 
+
+David Parmenter defines performance measures as being tied to a team or a cluster of teams working closely together for a common purpose. Good or bad performance becomes the responsibility of one team – which therefore provides clarity and ownership. Performance measures show what teams are delivering.
 
 ## Purpose
 
@@ -35,6 +37,10 @@ None yet defined
 ## Child terms
 
 Lever, opportunity, activity
+
+## Source
+
+Partially adapted from David Parmenter's book, *Key Performance Indicators (KPIs)* third edition, (2015: 3–4). [Available online](https://kpi.davidparmenter.com/wp-content/uploads/sites/6/2017/02/chapter-1-The-great-misunderstanding-Third-edition-of-KPI-book-by-David-Parmenter1.pdf)
 
 ## Feedback
 

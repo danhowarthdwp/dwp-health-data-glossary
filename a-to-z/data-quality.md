@@ -18,15 +18,15 @@ related:
 
 ## Definition
 
-Data quality is the state of qualitative or quantitative pieces of information. There are many definitions of data quality but data is generally considered high quality if it is fit for its intended uses in operations, decision making and planning. High quality quality data has integrity, which means it is accurate, complete and consistent.
+Data quality is the state of qualitative or quantitative pieces of information. There are many definitions of data quality but data is generally considered high quality if it is fit for its intended uses in operations, decision making and planning. High quality quality data has [integrity](/a-to-z/data-integrity), which means it is accurate, complete and consistent.
 
 ## Purpose
 
-Data quality and integrity are what makes data useful. Data quality is an outcome of the Digital Health and Disability data strategy.
+Data quality is what makes data useful. Data quality is an outcome of the Digital Health and Disability data strategy.
 
 ## Synonyms
 
-Data integrity
+None yet defined
 
 ## Parent terms
 
