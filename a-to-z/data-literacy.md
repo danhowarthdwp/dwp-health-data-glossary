@@ -3,7 +3,7 @@ layout: post
 title: Data literacy
 description: Data literacy is the ability to think critically about data in different contexts and examine the impact of different approaches when collecting, using and sharing data and information.
 eleventyNavigation:
-  key: Data integrity
+  key: Data literacy
   parent: Data
 includeInBreadcrumbs: true
 related:

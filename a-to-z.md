@@ -46,6 +46,10 @@ In general, data can be understood as discrete values and statistics collected t
 
 The level of trust an organisation has in the accuracy, completeness, timeliness, and validity of the data.
 
+### [Data literacy](/a-to-z/data-literacy)
+
+Data literacy is the ability to think critically about data in different contexts and examine the impact of different approaches when collecting, using and sharing data and information. It goes beyond the technical skills involved in working with data. 
+
 ### [Data quality](/a-to-z/data-quality)
 
 Data quality is the state of qualitative or quantitative pieces of information. There are many definitions of data quality but data is generally considered high quality if it is fit for its intended uses in operations, decision making and planning. High quality quality data has integrity, which means it is accurate, complete and consistent.
