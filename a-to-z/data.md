@@ -44,7 +44,7 @@ None – this is a top term
 
 ## Child terms
 
-[Availability](/a-to-z/availability), data framework, [data integrity](/a-to-z/data-integrity), data literacy, [data quality](/a-to-z/data-quality), data standards, data maturity, [data source](/a-to-z/data-source), data strategy, evidence, [interoperability](/a-to-z/interoperability), [linked data](/a-to-z/linked-data), [metadata](/a-to-z/metadata)
+[Availability](/a-to-z/availability), data framework, [data integrity](/a-to-z/data-integrity), [data literacy](/a-to-z/data-literacy), [data quality](/a-to-z/data-quality), data standards, data maturity, [data source](/a-to-z/data-source), data strategy, evidence, [interoperability](/a-to-z/interoperability), [linked data](/a-to-z/linked-data), [metadata](/a-to-z/metadata)
 
 ## Source
 
