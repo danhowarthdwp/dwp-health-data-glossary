@@ -18,7 +18,7 @@ related:
 
 ## Definition
 
-The impact and outcomes we deliver as a result of the work we have done. It’s measured by [results measures](/a-to-z/results-measure).
+The impact and outcomes we deliver as a result of the work we have done. It’s measured by [results measures](/a-to-z/results-measure)..
 
 ## Purpose
 
