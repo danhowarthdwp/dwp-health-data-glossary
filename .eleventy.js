@@ -13,6 +13,10 @@ module.exports = function(eleventyConfig) {
       }
     },
     brandColour: '#37807b',
+    fontFamily: 'arial, sans-serif',
+    footer: {
+      copyright: '© Department for Work and Pensions',
+    }
   });
 
     // Collections
